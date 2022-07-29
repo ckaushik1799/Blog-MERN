@@ -1,0 +1,21 @@
+.box {
+  width: 50%;
+  margin: auto;
+  padding: 25px;
+  font-family: "Quicksand", sans-serif;
+  color: #112b3c;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  padding: 33px;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.func {
+  font-weight: bold;
+}
